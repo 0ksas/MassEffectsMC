@@ -1,0 +1,8 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "top": "mass_effects_mod:block/silo_top",
+    "front": "mass_effects_mod:block/silo_front",
+    "side": "mass_effects_mod:block/silo_side"
+  }
+}

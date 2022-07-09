@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "mass_effects_mod:block/silo"
+    },
+    "facing=south": {
+      "model": "mass_effects_mod:block/silo",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "mass_effects_mod:block/silo",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "mass_effects_mod:block/silo",
+      "y": 90
+    }
+  }
+}
