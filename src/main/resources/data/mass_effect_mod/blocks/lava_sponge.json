@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:items",
+          "name": "item.mass_effects_mod.lava_sponge"
+        }
+      ]
+    }
+  ]
+}
